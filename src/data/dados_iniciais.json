@@ -1,0 +1,41 @@
+{
+  "categorias": [
+    {
+      "titulo": "Culinária Mineira História",
+      "link": "https://blog.grandhotelpocinhos.com.br/culinaria-mineira-conheca-a-historia-origem-e-sabores/",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Culinária Mineira História",
+        "url": "https://youtu.be/na7CnvlYSx4"
+      },
+      "videos": [
+        {
+          "titulo": "Culinária Mineira História",
+          "url": "https://youtu.be/na7CnvlYSx4"
+        }
+      ]
+    },
+    {
+      "titulo": "Receitas",
+      "cor": "green",
+      "videos": [
+        {
+          "titulo": "Frango com Quiago",
+          "url": "https://www.youtube.com/watch?v=YTuzky9b5vE"
+        },
+        {
+          "titulo": "Frango com ora-pro-nóbis",
+          "url": "https://www.youtube.com/watch?v=xrKMWHvteZw"
+        },
+        {
+          "titulo": "Feijao Torpeiro",
+          "url": "https://www.youtube.com/watch?v=3bLZMmFqAwY"
+        },
+        {
+          "titulo": "Broa de Fubá",
+          "url": "https://www.youtube.com/watch?v=ukXdVZ4DmRw"
+        }
+      ]
+    }
+  ]
+}
